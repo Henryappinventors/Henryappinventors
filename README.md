@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 <samp>
-A passionate and enthusiastic web and mobile developer with 5+ years of experience.<br />
-I love new challenges and new projects that help me invest all my skills and experience into succeeding in them.
+I am a seasoned developer with heavy expertise in Vue,React,python,wordpress and full-stack JavaScript with over 10+ years of experience, have helped design and implement various progressive web applications mainly using Vue/Nuxt, Node.js, and PHP/Laravel framework and Python.<br />
 </samp>
 <hr />
 
