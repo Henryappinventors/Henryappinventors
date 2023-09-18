@@ -2,6 +2,8 @@
 
 <samp>
 I am a seasoned developer with heavy expertise in Vue,React,python,wordpress and full-stack JavaScript with over 10+ years of experience, have helped design and implement various progressive web applications mainly using Vue/Nuxt, Node.js, and PHP/Laravel framework and Python.<br />
+I can translate designs and I have a good understanding of usability and an appreciation for a good user experience.
+ My experience also includes building responsive and mobile experiences and in software engineering using source code management tools such as GIT and Bitbucket. I have excellent problem-solving skills along with great time management, estimation and communication skills.
 </samp>
 <hr />
 
